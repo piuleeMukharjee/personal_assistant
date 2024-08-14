@@ -72,7 +72,7 @@ try:
                 webbrowser.open("https://www.youtube.com/")
 
             elif "who made you" in work or "who created you" in work: 
-                speak("I have been created by piulee and taniya.") 
+                speak("I have been created by piulee.") 
 
             elif "who i am" in work:
                 speak("If you talk then definitely your human.")                
